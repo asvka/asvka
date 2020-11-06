@@ -1,4 +1,9 @@
-### Here are a few things I'm working on~ 💜
+### Hello, I'm Anthony. Thank you for visiting my GitHub!
+
+## While I would say I specialize in backend, I'm a full stack engineer with a versatile skillset that includes but is not limited to:
+
+
+## Here are a few things I'm working on~ 💜
 
 Here are some ideas to get you started:
 
