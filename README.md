@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Building a Chess Game in React! ♟
 - 🤔 I’m looking for help with ...  Job placement, interview resources, cybersecurity resources. 💶🔐
 - 💬 Ask me about ... Philosophical topics and existentialism & technology. And geeky things like anime & games. 🤓
-- 📫 How to reach me: ... [LinkedIn](linkedin.com/in/anthony-m-hernandez/) or [Email](mailto:anthony.hern4ndez@gmail.com). 😁
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/anthony-m-hernandez/) or [Email](mailto:anthony.hern4ndez@gmail.com). 😁
 - 😄 Pronouns: ...  He/Him/His 🤴🏼
 - ⚡ Fun fact: ... I was a chef for 10 years before training as a software engineer! 👨🏼‍🍳
