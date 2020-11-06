@@ -1,6 +1,6 @@
 # Hello, I'm Anthony. Thank you for visiting my GitHub!
 
-### I'm a full stack software engineer with a lot of personality and versatile skillset that includes, but is not limited to:
+### I'm a full-stack engineer with a lot of personality and versatile skillset that includes, but is not limited to:
 - HTML/CSS/Preprocessing
 - React
 - Node
