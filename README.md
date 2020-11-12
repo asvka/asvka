@@ -11,8 +11,6 @@
 
 ### Here are a few things I'm working on~ 💜
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Lambda Labs, soon to be the Endorsement phase of Lambda School 👨🏼‍🎓
 - 🌱 I’m currently learning ... TypeScript, PostgreSQL 👨🏼‍💻
 - 👯 I’m looking to collaborate on ... Building a Chess Game in React! ♟
